@@ -27,4 +27,4 @@ async def on_message(message):
             await message.guild.unban(message.author)
             print("uh oh")
 
-client.run("ODI4Njk2Nzc4MjgyMzY5MDQ1.YGtWBA.2NYB7kI_d232JcsfBH94M0VTvYI")
+client.run("token hidden")
